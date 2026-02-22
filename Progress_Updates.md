@@ -24,3 +24,5 @@ Original prompt: each level should have something to make it unique and a backgr
 - Fish schools now have varied per-fish orientation via angleJitter.
 - Updated BGM source to local game-folder file: sun-moon-spotidost.mp3.
 - Applied window FX immediately on mission switch in addition to per-frame updates.
+**All above changes are those implented using AI. From now on I'll be writing updates by hand**
+  
